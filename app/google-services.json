@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "35803721500",
+    "firebase_url": "https://finalyearproject-e66ad.firebaseio.com",
+    "project_id": "finalyearproject-e66ad",
+    "storage_bucket": "finalyearproject-e66ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35803721500:android:8f9a691bb864c75d",
+        "android_client_info": {
+          "package_name": "com.finalyear.project.upswaterlevelchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35803721500-7bqs099d979g5s29rrbp303afprl8vv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalyear.project.upswaterlevelchecker",
+            "certificate_hash": "561f4ba1d3a1c06f7b48938c493653735e1b9224"
+          }
+        },
+        {
+          "client_id": "35803721500-ti10rlp11q4l6bfh2dveg96t9jbd46bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLKGXG7gcieOum7E6MVhkXyh9gFFJs2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35803721500-ti10rlp11q4l6bfh2dveg96t9jbd46bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
